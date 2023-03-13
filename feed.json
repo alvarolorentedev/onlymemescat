@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "onlymeme.cat",
+    "title": "onlymemes.cat",
     "description": "",
     "home_page_url": "https://www.onlymemes.cat",
     "feed_url": "https://www.onlymemes.cat/feed.json",
@@ -10,8 +10,24 @@
     },
     "items": [
         {
-            "id": "https://www.onlymemes.cat/blame-the-dog.html",
-            "url": "https://www.onlymemes.cat/blame-the-dog.html",
+            "id": "https://www.onlymemes.cat/dinosaur-bite/",
+            "url": "https://www.onlymemes.cat/dinosaur-bite/",
+            "title": "Dinosaur Bite",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.onlymemes.cat/media/posts/2/funny-cat-memes-2019-12.jpg\" alt=\"\" width=\"640\" height=\"853\" sizes=\"100vw\" srcset=\"https://www.onlymemes.cat/media/posts/2/responsive/funny-cat-memes-2019-12-xs.jpg 300w ,https://www.onlymemes.cat/media/posts/2/responsive/funny-cat-memes-2019-12-sm.jpg 480w ,https://www.onlymemes.cat/media/posts/2/responsive/funny-cat-memes-2019-12-md.jpg 768w ,https://www.onlymemes.cat/media/posts/2/responsive/funny-cat-memes-2019-12-lg.jpg 1024w ,https://www.onlymemes.cat/media/posts/2/responsive/funny-cat-memes-2019-12-xl.jpg 1360w ,https://www.onlymemes.cat/media/posts/2/responsive/funny-cat-memes-2019-12-2xl.jpg 1600w\"></figure>",
+            "image": "https://www.onlymemes.cat/media/posts/2/funny-cat-memes-2019-12-2.jpg",
+            "author": {
+                "name": "kanekotic"
+            },
+            "tags": [
+                   "help",
+                   "cat"
+            ],
+            "date_published": "2023-03-13T16:37:55+01:00",
+            "date_modified": "2023-03-13T16:38:20+01:00"
+        },
+        {
+            "id": "https://www.onlymemes.cat/blame-the-dog/",
+            "url": "https://www.onlymemes.cat/blame-the-dog/",
             "title": "Blame the dog",
             "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://www.onlymemes.cat/media/posts/1/cat-memes-lede.jpg\" height=\"1643\" width=\"2400\" alt=\"\"  sizes=\"100vw\" srcset=\"https://www.onlymemes.cat/media/posts/1/responsive/cat-memes-lede-xs.jpg 300w ,https://www.onlymemes.cat/media/posts/1/responsive/cat-memes-lede-sm.jpg 480w ,https://www.onlymemes.cat/media/posts/1/responsive/cat-memes-lede-md.jpg 768w ,https://www.onlymemes.cat/media/posts/1/responsive/cat-memes-lede-lg.jpg 1024w ,https://www.onlymemes.cat/media/posts/1/responsive/cat-memes-lede-xl.jpg 1360w ,https://www.onlymemes.cat/media/posts/1/responsive/cat-memes-lede-2xl.jpg 1600w\">\n      \n    </figure>",
             "image": "https://www.onlymemes.cat/media/posts/1/cat-memes-lede-2.jpg",

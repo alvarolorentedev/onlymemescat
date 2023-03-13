@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>onlymeme.cat</title>
+    <title>onlymemes.cat</title>
     <link href="https://www.onlymemes.cat/feed.xml" rel="self" />
     <link href="https://www.onlymemes.cat" />
-    <updated>2023-03-12T15:31:48+01:00</updated>
+    <updated>2023-03-13T16:38:20+01:00</updated>
     <author>
         <name>kanekotic</name>
     </author>
     <id>https://www.onlymemes.cat</id>
 
     <entry>
+        <title>Dinosaur Bite</title>
+        <author>
+            <name>kanekotic</name>
+        </author>
+        <link href="https://www.onlymemes.cat/dinosaur-bite/"/>
+        <id>https://www.onlymemes.cat/dinosaur-bite/</id>
+        <media:content url="https://www.onlymemes.cat/media/posts/2/funny-cat-memes-2019-12-2.jpg" medium="image" />
+            <category term="help"/>
+            <category term="cat"/>
+
+        <updated>2023-03-13T16:38:20+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.onlymemes.cat/media/posts/2/funny-cat-memes-2019-12-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://www.onlymemes.cat/media/posts/2/funny-cat-memes-2019-12.jpg" alt="" width="640" height="853" sizes="100vw" srcset="https://www.onlymemes.cat/media/posts/2/responsive/funny-cat-memes-2019-12-xs.jpg 300w ,https://www.onlymemes.cat/media/posts/2/responsive/funny-cat-memes-2019-12-sm.jpg 480w ,https://www.onlymemes.cat/media/posts/2/responsive/funny-cat-memes-2019-12-md.jpg 768w ,https://www.onlymemes.cat/media/posts/2/responsive/funny-cat-memes-2019-12-lg.jpg 1024w ,https://www.onlymemes.cat/media/posts/2/responsive/funny-cat-memes-2019-12-xl.jpg 1360w ,https://www.onlymemes.cat/media/posts/2/responsive/funny-cat-memes-2019-12-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Blame the dog</title>
         <author>
             <name>kanekotic</name>
         </author>
-        <link href="https://www.onlymemes.cat/blame-the-dog.html"/>
-        <id>https://www.onlymemes.cat/blame-the-dog.html</id>
+        <link href="https://www.onlymemes.cat/blame-the-dog/"/>
+        <id>https://www.onlymemes.cat/blame-the-dog/</id>
         <media:content url="https://www.onlymemes.cat/media/posts/1/cat-memes-lede-2.jpg" medium="image" />
             <category term="cat"/>
             <category term="blame"/>
