@@ -3,12 +3,32 @@
     <title>onlymemes.cat</title>
     <link href="https://www.onlymemes.cat/feed.xml" rel="self" />
     <link href="https://www.onlymemes.cat" />
-    <updated>2023-03-13T16:38:20+01:00</updated>
+    <updated>2023-03-15T10:03:13+01:00</updated>
     <author>
         <name>kanekotic</name>
     </author>
     <id>https://www.onlymemes.cat</id>
 
+    <entry>
+        <title>Human you are fired!</title>
+        <author>
+            <name>kanekotic</name>
+        </author>
+        <link href="https://www.onlymemes.cat/human-you-are-fired/"/>
+        <id>https://www.onlymemes.cat/human-you-are-fired/</id>
+        <media:content url="https://www.onlymemes.cat/media/posts/3/redundancy.png" medium="image" />
+            <category term="help"/>
+            <category term="cat"/>
+
+        <updated>2023-03-15T10:03:13+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.onlymemes.cat/media/posts/3/redundancy.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://www.onlymemes.cat/media/posts/3/redundancy-2.png" alt="" width="625" height="840" sizes="100vw" srcset="https://www.onlymemes.cat/media/posts/3/responsive/redundancy-2-xs.png 300w ,https://www.onlymemes.cat/media/posts/3/responsive/redundancy-2-sm.png 480w ,https://www.onlymemes.cat/media/posts/3/responsive/redundancy-2-md.png 768w ,https://www.onlymemes.cat/media/posts/3/responsive/redundancy-2-lg.png 1024w ,https://www.onlymemes.cat/media/posts/3/responsive/redundancy-2-xl.png 1360w ,https://www.onlymemes.cat/media/posts/3/responsive/redundancy-2-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Dinosaur Bite</title>
         <author>
